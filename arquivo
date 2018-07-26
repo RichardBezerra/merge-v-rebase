@@ -1,7 +1,9 @@
 merge(a, b) : c {
+	bug master
 	versao inicial do merge
 }
 
 rebase(b, c) : d{
+	bug master
 	versao inicial do rebase
 }
