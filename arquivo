@@ -3,7 +3,8 @@ merge(a, b) : c {
 	versao inicial do merge
 }
 
-rebase(b, c) : d{
+rebase(b, c) : d {
+	feature rebase
 	bug master
 	versao inicial do rebase
 }
