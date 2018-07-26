@@ -3,5 +3,6 @@ merge(a, b) : c {
 }
 
 rebase(b, c) : d{
+	feature rebase
 	versao inicial do rebase
 }
