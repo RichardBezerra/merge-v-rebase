@@ -1,4 +1,5 @@
 merge(a, b) : c {
+	feature merge
 	versao inicial do merge
 }
 
